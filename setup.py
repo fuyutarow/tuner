@@ -25,7 +25,7 @@ setup(
         'pandas',
         'Pillow',
         'h5py',
-        'tensorflow==1.1.0',
+        'tensorflow==2.7.2',
         'keras',
     ],
     dependency_links=[
